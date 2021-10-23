@@ -1,2 +1,5 @@
 # 5002
-assignment1
+assignment
+Scrape the Yahoo Website
+Extract the 'Key Executivies"
+Calculate income tax
